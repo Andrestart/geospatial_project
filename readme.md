@@ -1,5 +1,5 @@
 # Geospatial_Project
-![portada](https://github.com/Andrestart/geospatial_project/blob/master/images/geo.jpg)
+![portada](https://github.com/Andrestart/geospatial_project/blob/master/images/geo.jpg)<br />
 
 # Objective
 The objective of this project is to determine the perfect location for a new company in the gaming industry. In order to do that, we need to take into account  the following information:
@@ -33,7 +33,7 @@ The following resources have been used to achieve the objective of this project:
 ### Structure of the project files
 
 The structure of this project is composed of:
- 1. A folder of notebooks: 
+ 1. A folder of notebooks: <br />
     a) **1_query_database.ipynb** -->with the preliminary analysis where I search for companies that meet the requirements established a priori to be able to pre-select locations. 
 
     b) **2_info_from_API.ipynb** --> the call is made to the API "Foursquare Developers", where we will get some preferred conditions where we want our company to be located. 
