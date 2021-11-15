@@ -1,5 +1,5 @@
 # Geospatial_Project
-[portada](https://github.com/Andrestart/geospatial_project/blob/master/images/geo.jpg)
+![portada](https://github.com/Andrestart/geospatial_project/blob/master/images/geo.jpg)
 
 # Objective
 The objective of this project is to determine the perfect location for a new company in the gaming industry. In order to do that, we need to take into account  the following information:
@@ -18,7 +18,6 @@ Based on all the information given by the employees, the first filters I applied
 Only 3 companies have been found after apllying this database filter, which are located in Ellensburg, Brooklyn and San Francisco. These 3 will be compared.
 
 # Working plan 
-![workingflow](https://github.com/AnaAGG/P3_Geospatial_Data/blob/main/Images/Work_Flow.jpg)
 I used MongoDB to get the 3 companies that meet the criteria whose coordinates are located in **Ellensburg, Brooklyn and San Francisco**. 
 
 The coordinates were used to make the API Foursquare calls filtering by "vegan restaurants", "starbucks", "school","train station subway", "basketball court" .
